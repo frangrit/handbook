@@ -1,3 +1,7 @@
+_This is a fork of the handbook I wrote for Rumors while I was a strategist there during 2016-2019._
+
+---
+
 # Handbook
 
 **⚠️ WIP ⚠️**
